@@ -1,6 +1,7 @@
 body{
     padding:2%;
-    background-color: rgb(253, 253, 215);
+    background-image: url("vivid-blurred-colorful-wallpaper-background.jpg");
+    z-index: -5px;
 }
 
 .header-text{
